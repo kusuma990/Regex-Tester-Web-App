@@ -55,7 +55,7 @@ RegexApp/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/kusuma990/regex-tester.git
+git clone https://github.com/kusuma990/Regex-Tester-Web-App
 
 cd regex-tester
 
